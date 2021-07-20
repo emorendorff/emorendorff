@@ -48,7 +48,9 @@ My name is Em Orendorff and I'm currently a Mod 3 Front End Engineering student 
  ---
 
 <p>
-  <a href="https://github.com/Meekb/rancid-tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/126238800-2b8e9131-3825-4ff7-9da4-ed11bb2b9f26.gif"></a>
+  <a href="https://github.com/Meekb/rancid-tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/126238800-2b8e9131-3825-4ff7-9da4-ed11bb2b9f26.gif"></a> <br>
+ <a href="https://github.com/Meekb/rancid-tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/126238817-f279d2e9-43bf-4ae1-ad6b-9624c354d253.gif"></a> <br>
+   <a href="https://github.com/Meekb/rancid-tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/126238835-e09bf94c-874e-4b71-a121-1e5c7e0ac6c3.gif"></a> 
 </p>
 
 ### My Recent Projects 🌱
