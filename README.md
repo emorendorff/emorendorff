@@ -47,13 +47,14 @@ My name is Em Orendorff and I'm currently a Mod 3 Front End Engineering student 
 
  ---
 
-<!-- <p>
-  <a href="https://github.com/emorendorff/overlook-hotel"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/124984453-db5e2700-dffe-11eb-8791-97e6affe3745.gif"></a>
-</p> -->
+<p>
+  <a href="https://github.com/Meekb/rancid-tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/126238800-2b8e9131-3825-4ff7-9da4-ed11bb2b9f26.gif"></a>
+</p>
 
 ### My Recent Projects 🌱
 
-Our first paired prject to kick off Mod 3, a movie application in the same vein as Rotton Tomatoes or IMDB! This was our first project implementing class and functional components, routing and API endpoints with heroku using React. The spec for the project can be found [here](https://frontend.turing.edu/projects/module-3/rancid-tomatillos-v3.html) and our repository is found [here](https://github.com/Meekb/rancid-tomatillos)! <br> [homepage](https://user-images.githubusercontent.com/77934658/126370911-807cccf0-2e5d-4aaf-82ac-45305b136f5d.gif)
+Our first paired prject to kick off Mod 3, a movie application in the same vein as Rotton Tomatoes or IMDB! This was our first project implementing class and functional components, routing and API endpoints with heroku using React. The spec for the project can be found [here](https://frontend.turing.edu/projects/module-3/rancid-tomatillos-v3.html) and our repository is found [here](https://github.com/Meekb/rancid-tomatillos)! <br> 
+
   
 
 --- 
