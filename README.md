@@ -7,7 +7,7 @@
 <p align='center'>
 <a href="https://dev.to/emorendorff"><img height="30" src="https://user-images.githubusercontent.com/77934658/124979734-0ba2c700-dff9-11eb-8fdd-2133b98d40ab.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/darkclothesnostain/"><img height="30" src="https://user-images.githubusercontent.com/77934658/124979032-2a548e00-dff8-11eb-8de5-466e310b49f9.png"></a>
-<a href='www.linkedin.com/in/em-orendorff-2a2b4987'><img height="30" src="https://user-images.githubusercontent.com/77934658/124978588-97b3ef00-dff7-11eb-85fa-38dcd207f95a.png"></a>
+<a href='www.linkedin.com/in/em-orendorff-2a2b4987'><img height="30" src="https://user-images.githubusercontent.com/77934658/124978588-97b3ef00-dff7-11eb-85fa-38dcd207f95a.png"></a> <br>
 </p>
 
 Hello 👋,
