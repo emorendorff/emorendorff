@@ -47,13 +47,14 @@ My name is Em Orendorff and I'm currently a Mod 3 Front End Engineering student 
 
  ---
 
-<p>
+<!-- <p>
   <a href="https://github.com/emorendorff/overlook-hotel"><img width="300" align='right' src="https://user-images.githubusercontent.com/77934658/124984453-db5e2700-dffe-11eb-8791-97e6affe3745.gif"></a>
-</p>
+</p> -->
 
 ### My Recent Projects 🌱
 
-My final project for Mod 2 of Turing: The Overlook Hotel. A fun project that challenged us to make a booking application with vanilla javascript and a focus on hooking up web APIs. The full project can be found [here](https://github.com/emorendorff/overlook-hotel)  
+Our first paired prject to kick off Mod 3, a movie application in the same vein as Rotton Tomatoes or IMDB! This was our first project implementing class and functional components, routing and API endpoints with heroku using React. The spec for the project can be found [here](https://frontend.turing.edu/projects/module-3/rancid-tomatillos-v3.html) and our repository is found [here](https://github.com/Meekb/rancid-tomatillos)! <br> [homepage](https://user-images.githubusercontent.com/77934658/126370911-807cccf0-2e5d-4aaf-82ac-45305b136f5d.gif)
+  
 
 --- 
 ## Stats
