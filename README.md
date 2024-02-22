@@ -8,5 +8,4 @@ At work, I'm interested in creating reusable design systems, picking up Ruby as 
 
 Outside of work, catch me at the local estate sales and antique malls of Richmond, VA, running along the James River, throwing a stick for my dog Moose, or fixing up our old home. 
 
-[LinkedIn](https://www.linkedin.com/in/em-orendorff-2a2b4987/)
-[GitHub](https://github.com/emorendorff) 
+[LinkedIn](https://www.linkedin.com/in/em-orendorff-2a2b4987/) - [GitHub](https://github.com/emorendorff) 
