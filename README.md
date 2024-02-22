@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I'm an engineer currently working at [Vanilla](https://www.justvanilla.com/) on tools to help clients navigate the complex world of estate planning with better understanding and visualizations. In a different life, I was a manager, educator and competitor in the world of specialty coffee.
+I'm an engineer currently working at [Vanilla](https://www.justvanilla.com/) on tools that help people navigate the complex world of estate planning. In a different life, I was a manager, educator and competitor in the world of specialty coffee.
 
 At work, I'm interested in creating reusable design systems, picking up Ruby as I go, and optimizing typescript while trying to make my coworkers laugh a little (it works sometimes).
 
