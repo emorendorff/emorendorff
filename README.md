@@ -10,9 +10,7 @@
 <a href='www.linkedin.com/in/em-orendorff-2a2b4987'><img height="30" src="https://user-images.githubusercontent.com/77934658/124978588-97b3ef00-dff7-11eb-85fa-38dcd207f95a.png"></a> <br>
 </p>
 
-Hello 👋,
-
-My name is Em Orendorff and I'm currently a Mod 3 Front End Engineering student at [Turing School of Software & Design](https://turing.edu/) (*anticipated completion:* **October 2021**).  I’m passionate about people and the systems that empower them to do (and be) their best. I have an extensive background in service industry training and management and could once claim the title as the 6th best barista in the United States. I'm always happy to connect and talk all things food, coffee, code and how to make spaces more inclusive and welcoming and challenging the status quo. Let's connect! 
+Hello 👋
 
   ---
   ## Technologies I Work With
